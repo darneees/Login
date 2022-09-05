@@ -16,10 +16,15 @@
 
 ## Cores Utilizadas
 
-- ``#001d3d`` - login ( background )
-- ``linear-gradient(60deg, #000328, #00458e)`` - body ( background )
-- ``#061A40`` - Textos ( Placeholder ) / ``#F9F9F9`` - demais textos
-- ``#00458e`` - Efeito hover / ``#5568FE``  background & texto ( criar conta ) 
+- ``#001d3d`` - login ( BACKGROUND )
+- ``linear-gradient(60deg, #000328, #00458e)`` - body ( BACKGROUND )
+- ``#061A40`` - Textos ( PLACEHOLDER ) / ``#F9F9F9`` - demais textos
+- ``#00458e`` - Efeito hover / ``#5568FE``  background ( SIGN-IN ) e texto ( CRIAR CONTA ) 
+
+## Icones
+
+:white_check_mark:  https://www.flaticon.com/br/uicons
+
 
 ## Deployed
 
