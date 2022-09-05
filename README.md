@@ -19,7 +19,7 @@
 - ``#001d3d`` - login ( BACKGROUND )
 - ``linear-gradient(60deg, #000328, #00458e)`` - body ( BACKGROUND )
 - ``#061A40`` - Textos ( PLACEHOLDER ) / ``#F9F9F9`` - demais textos
-- ``#00458e`` - Efeito hover / ``#5568FE``  background ( SIGN-IN ) e texto ( CRIAR CONTA ) 
+- ``#5568FE``  background ( SIGN-IN ) e texto ( CRIAR CONTA ) 
 
 ## Icones
 
