@@ -52,10 +52,7 @@ form [type="submit"] {
   font-size: 15px;
   text-transform: uppercase;
   font-weight: bold;
-  cursor: pointer;
-}
-form [type="submit"]:hover {
-  background: #00458e;
+  pointer-events: none;
 }
 p {
   color: #F9F9F9;
